@@ -9,6 +9,7 @@ This is a Python-based quiz game focused on Islamic information. The game includ
 - Different messages based on performance
 - Randomized questions
 - Support for executable file distribution
+- Save your best score in each game
 
 ## Installation
 
