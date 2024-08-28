@@ -23,7 +23,7 @@ If you prefer to run the game using the source code, you will need to have Pytho
     ```
 3. **Run the game**:
     ```bash
-    python main.py
+    python quiz_game_recover_file.py
     ```
 
 ### Using the Executable File
