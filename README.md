@@ -1,53 +1,38 @@
 
 # Islamic Quiz Game
 
-This project is a quiz game related to Islamic information. It provides an engaging way for users to test their knowledge on various Islamic topics.
+This is a Python-based quiz game focused on Islamic information. The game includes a variety of questions that test your knowledge of Islam.
 
 ## Features
-- Randomized questions to challenge the player.
-- Countdown timer to add excitement.
-- Scoring system to track performance.
-- Best score tracking for continuous improvement.
-- Option to play again after the game ends.
-
-## Requirements
-- Python 3.x
+- A countdown timer for each question
+- Score tracking and display
+- Different messages based on performance
+- Randomized questions
+- Support for executable file distribution
 
 ## Installation
-1. Clone this repository or download the files manually.
-2. Navigate to the project directory.
-3. Install the required Python packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-## Running the Game
-To start the quiz game, run the following command:
-```bash
-python your_script.py
-```
-Replace `your_script.py` with the actual script name.
+If you prefer to run the game using the source code, you will need to have Python installed on your system.
 
-## Creating an Executable
-If you want to distribute the game to users who may not have Python installed, you can create an executable file using `PyInstaller`:
+### Running the Python Script
 
-1. Install PyInstaller:
-   ```bash
-   pip install pyinstaller
-   ```
+1. **Clone the repository** or download the project files.
+2. **Install the required libraries**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Run the game**:
+    ```bash
+    python main.py
+    ```
 
-2. Create the executable:
-   ```bash
-   pyinstaller --onefile your_script.py
-   ```
-   Replace `your_script.py` with the name of your Python file.
+### Using the Executable File
 
-3. The executable will be found in the `dist` folder.
+If you do not have Python installed, you can use the provided executable file to run the game:
+
+1. **Navigate to the `quiz game` directory**.
+2. **Double-click the `quiz_game_recover_file.exe` file** to launch the game.
 
 ## License
-This project is open-source and free to use.
 
-## Credits
-Developed by [Your Name].
-
-Enjoy the game and enrich your knowledge of Islamic information!
+This project is licensed under the MIT License. See the LICENSE file for more information.
