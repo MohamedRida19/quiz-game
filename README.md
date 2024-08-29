@@ -1,39 +1,52 @@
+Project Title: Islamic Quiz Game
+Description:
 
-# Islamic Quiz Game
+This interactive quiz game is designed to test your knowledge of Islamic concepts and verses. It offers three different game modes with increasing difficulty levels:
 
-This is a Python-based quiz game focused on Islamic information. The game includes a variety of questions that test your knowledge of Islam.
+General Islamic Questions
+Identify the Speaker of the Verse
+Identify the Intended Recipient of the Verse
+Features:
 
-## Features
-- A countdown timer for each question
-- Score tracking and display
-- Different messages based on performance
-- Randomized questions
-- Support for executable file distribution
-- Save your best score in each game
+Randomly generated questions from a curated database.
+Timer-based gameplay to add excitement.
+Score tracking and best score saving.
+Sound effects for positive and negative feedback.
+Customizable settings, including sound on/off.
+Installation:
 
-## Installation
+Clone the Repository:
 
-If you prefer to run the game using the source code, you will need to have Python installed on your system.
+Bash
+git clone https://github.com/your-username/islamic-quiz-game.git
+Utilisez ce code avec précaution.
 
-### Running the Python Script
+Replace your-username with your actual GitHub username.
 
-1. **Clone the repository** or download the project files.
-2. **Install the required libraries**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. **Run the game**:
-    ```bash
-    python quiz_game_recover_file.py
-    ```
+Install Dependencies:
+Ensure you have Python 3.x installed. Then, install the required libraries using pip:
 
-### Using the Executable File
+Bash
+pip install -r requirements.txt
+Utilisez ce code avec précaution.
 
-If you do not have Python installed, you can use the provided executable file to run the game:
+Usage:
 
-1. **Navigate to the `quiz game` directory**.
-2. **Double-click the `quiz_game_recover_file.exe` file** to launch the game.
+Run the Game: Navigate to the project directory and execute the main script:
+Bash
+python main.py
+Utilisez ce code avec précaution.
 
-## License
+Play the Game: Follow the on-screen instructions to select a game mode, answer questions, and track your score.
+License:
+This project is licensed under the MIT License. For more details, refer to the LICENSE file.
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+Contributing:
+Contributions are welcome! Please feel free to submit pull requests or report issues.   
+
+Additional Notes:
+
+Replace your-username with your actual GitHub username in the clone command.
+Ensure you have the necessary libraries installed as specified in requirements.txt.
+If you encounter any issues, please check the project's issue tracker or contact the maintainer.
+Enjoy the game!
